@@ -16,4 +16,3 @@ function twoSum(nums, target) {
   return res;
   
 }
-console.log(twoSum(nums,target));
